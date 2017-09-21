@@ -1,4 +1,0 @@
-header1 header2 header3 header4
-foo bar baz 3
-abc def ghi 1
-lorem ipsum dolor 2
