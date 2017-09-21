@@ -23,5 +23,8 @@ cat path/to/file1.txt path/to/file2.txt | bsort
 
 Given that parameters are pass as they are to `sort` you could very well say _hey, I'm going to do `bsort -r file` instead of piping to it_: nothing stops you of doing that, but it will fail. You have been warned.
 
+## Why the name?
+Because [@fsaravia](https://github.com/fsaravia) is smarter than me and he pointed out that this utility sorts the _body_ of a file.
+
 ## License
 See [LICENSE](LICENSE).
